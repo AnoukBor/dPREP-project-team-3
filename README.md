@@ -4,7 +4,7 @@ __Which cities in Europe have the best quality-price ratio ('value for money') i
 
 ## Motivation
 
-We think this question is valuable to research as those who have limited financial means (such as students like us) would like to have the best quality accommodations for the lowest price that fits their budget. With the results of our analysis, we can form recommendations for this group regarding which European cities to visit, thereby better meeting the needs of this customer base and faciliating a more efficient search for listings when on the Airbnb site. 
+The last few years Airbnb has grown tremendously with 10% in the last two years in Europe (Vansteeland, 2021). Throughout Europe people use Airbnb to book houses for their holiday, city trips or business trips. With the growth of Airbnb the prices of the platform have also increased. For people with limited financial resources, think for example about students, it is therefore harder to look for a nice accommodation for a good price. It is therefore useful to research the question stated above. This analysis is very valuable for people who have limited financial resources to know which accommodations are the best price quality, so that it is possible for them to go on a holiday that fits their budget. Besides people with limited financial resources, it is also useful for Airbnb providers to know which factors influence the quality-price ratio so they can focus on certain amenities. With the results of our multiple regression analysis, we can form recommendations for this group regarding which European capital cities to visit, thereby better meeting the needs of this customer base based on the quality-price ratio and facilitating a more efficient search for listings when on the Airbnb site. We can also provide Airbnb with a list of amenities which influence the quality-price ratio, so they know on which amenities to focus. 
 
 ## Data
 
@@ -14,7 +14,8 @@ AirBnB data used available at [Inside AirBnB](http://insideairbnb.com/get-the-da
 
 ## Method and results
 
-1. Introduce and motivate your chosen method, and explain how it contribtues to solving the research question/business problem.
+To answer the research question, we'll conduct first a factor analysis to reduce the data and gain insight in the structure of the dataset. Second we’ll conduct a multiple regression analysis so we can determine the correlation between the dependent variable and the independent variables. This will result in an outcome that shows which amenities have the biggest impact on the quality-price ratio.   
+
 2. Summarize your results concisely. Make use of subheaders where appropriate. 
 
 ## Repository overview
